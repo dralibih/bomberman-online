@@ -10,7 +10,6 @@ def redrawWindow(window, player1, player2):
     player1.draw(window)
     player2.draw(window)
     pygame.display.flip()
-    
 
 def main():
     
